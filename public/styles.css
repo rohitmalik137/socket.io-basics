@@ -1,0 +1,14 @@
+input{
+    width: 100%;
+    height: 35px;
+}
+.single__message{
+    width: 100%;
+    border: 1px solid rgb(179, 174, 174);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 2px;
+}
+.single__message:first-child{
+    margin-top: 50px;
+}
